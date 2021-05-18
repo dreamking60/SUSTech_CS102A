@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39b30929-bd4b-4f1d-ba99-3c98f960a393" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1biBMgfNGCVaP0340kN8eEvE5JP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../project/Halma 4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.LogJunitTest.testCase">
+    <configuration name="GroupJunitTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupJunitTest" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogJunitTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogJunitTest" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OfficeJunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OfficeJunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserJunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserJunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserJunitTest.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserJunitTest" />
+      <option name="METHOD_NAME" value="testCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LogJunitTest.testCase" />
+        <item itemvalue="JUnit.GroupJunitTest.testCase" />
+        <item itemvalue="JUnit.OfficeJunitTest" />
+        <item itemvalue="JUnit.UserJunitTest.testCase" />
+        <item itemvalue="JUnit.UserJunitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b30929-bd4b-4f1d-ba99-3c98f960a393" name="Default Changelist" comment="" />
+      <created>1589104987470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589104987470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="22" key="#Project_Structure" timestamp="1589104997614">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="22" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1589104997614" />
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1589119379993">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1589119379993" />
+    <state x="786" y="336" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589110684870">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="786" y="336" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1589110684870" />
+    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1589195310379">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1589195310379" />
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589195294214">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1589195294214" />
+    <state x="349" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589105478827">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1589105478827" />
+    <state x="28" y="0" key="new project wizard" timestamp="1589168080099">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1589168080099" />
+    <state x="551" y="210" key="run.anything.popup" timestamp="1589116432215">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="551" y="210" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1589116432215" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1589117248569">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1589117248569" />
+  </component>
+</project>

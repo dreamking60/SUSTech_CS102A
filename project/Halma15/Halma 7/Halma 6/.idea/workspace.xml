@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Halma:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aae434c-7040-48e1-8d09-8d878df0c53a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkV4QVtlINc0dIHHUGZSFWiThp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../JAVA/作业/release-to-students/source code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xyz.chengzi.halma.view" />
+      <recent name="xyz.chengzi.halma.board" />
+      <recent name="xyz.chengzi.halma.listener" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZIHAN\Desktop\project\Halma 14\Halma 6\src\resource" />
+      <recent name="C:\Users\ZIHAN\Desktop\project\Halma 14\Halma 6\src\xyz\chengzi\halma" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Halma">
+    <configuration name="Halma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.Halma" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine1" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine3" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.server" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Halma" />
+        <item itemvalue="Application.StarShine" />
+        <item itemvalue="Application.StarShine1" />
+        <item itemvalue="Application.StarShine3" />
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aae434c-7040-48e1-8d09-8d878df0c53a" name="Default Changelist" comment="" />
+      <created>1585382886319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585382886319</updated>
+      <workItem from="1585382889276" duration="15497000" />
+      <workItem from="1585460345730" duration="813000" />
+      <workItem from="1586055879729" duration="5308000" />
+      <workItem from="1587708241390" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.mp3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588839339306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="414" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1588490953782" />
+    <state x="497" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588839339306" />
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589963071902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="248" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1589963071902" />
+    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1590291824174">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1590291824174" />
+    <state x="612" y="177" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588820227803" />
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586058188772" />
+    <state x="552" y="240" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590113493408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="240" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1590113493408" />
+    <state x="690" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585395139700" />
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587987752426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1587987752426" />
+    <state x="430" y="250" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590153014484">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="430" y="250" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1590153014484" />
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586057767115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586057767115" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590073651975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590073651975" />
+    <state x="493" y="190" key="FileChooserDialogImpl" timestamp="1590906536634">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="493" y="190" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1590906536634" />
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590243695404" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585461153228" />
+    <state width="1237" height="563" key="GridCell.Tab.0.bottom" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1493" height="450" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590243578207" />
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586060657466" />
+    <state width="1237" height="563" key="GridCell.Tab.0.center" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1493" height="450" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590243578207" />
+    <state width="1877" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586060657465" />
+    <state width="1237" height="563" key="GridCell.Tab.0.left" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1493" height="450" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590243578207" />
+    <state width="1877" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586060657465" />
+    <state width="1237" height="563" key="GridCell.Tab.0.right" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1493" height="450" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590243578207" />
+    <state width="1877" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586060657465" />
+    <state width="1237" height="563" key="GridCell.Tab.1.bottom" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1237" height="563" key="GridCell.Tab.1.center" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1237" height="563" key="GridCell.Tab.1.left" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state width="1237" height="563" key="GridCell.Tab.1.right" timestamp="1590298416236">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="563" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1590298416236" />
+    <state x="540" y="262" key="IDE.errors.dialog" timestamp="1585398785373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585398785373" />
+    <state x="770" y="453" key="ReplaceDuplicatesPrompt" timestamp="1586059301250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="453" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1586059301250" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1590211167700">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1590211167700" />
+    <state x="352" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590113506272" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586056081213" />
+    <state x="701" y="271" key="classpath-attribute-editor" timestamp="1589972634656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="701" y="271" key="classpath-attribute-editor/0.0.1536.824@0.0.1536.824" timestamp="1589972634656" />
+    <state x="374" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1590906516582">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="374" y="206" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1590906516582" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590230889391" />
+    <state x="419" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589810671631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="419" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1589810671631" />
+    <state x="178" y="22" key="new project wizard" timestamp="1589971681148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="14" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1589901923629" />
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589971681148" />
+    <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1589036399242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="30" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1589036399242" />
+    <state x="411" y="166" key="run.anything.popup" timestamp="1590211113485">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="411" y="166" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1590211113485" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585396338568" />
+    <state x="359" y="127" width="672" height="593" key="search.everywhere.popup" timestamp="1590290195262">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="359" y="127" width="672" height="593" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1590290195262" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589786957524" />
+  </component>
+</project>

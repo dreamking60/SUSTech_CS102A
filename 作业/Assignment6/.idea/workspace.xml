@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9030a59-5db5-4c19-b314-086950125ca0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cf8QawJeT0HaARJM59ql9dHTAq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\作业\Assignment6\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="Assignment6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalJudgeA6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalJudgeA6Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalJudgeA6Test.testCinema_01_ClassInfo_Time" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalJudgeA6Test" />
+      <option name="METHOD_NAME" value="testCinema_01_ClassInfo_Time" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalJudgeA6Test.testCinema_09_movieHallOrderByStartTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalJudgeA6Test" />
+      <option name="METHOD_NAME" value="testCinema_09_movieHallOrderByStartTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalJudgeA6Test.testCinema_14_getAvailableMoviesByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LocalJudgeA6Test" />
+      <option name="METHOD_NAME" value="testCinema_14_getAvailableMoviesByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="JUnit.LocalJudgeA6Test.testCinema_09_movieHallOrderByStartTime" />
+        <item itemvalue="JUnit.LocalJudgeA6Test" />
+        <item itemvalue="JUnit.LocalJudgeA6Test.testCinema_14_getAvailableMoviesByName" />
+        <item itemvalue="JUnit.LocalJudgeA6Test.testCinema_01_ClassInfo_Time" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9030a59-5db5-4c19-b314-086950125ca0" name="Default Changelist" comment="" />
+      <created>1590908271926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590908271926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1590931844463">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="451" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1590931844463" />
+    <state x="451" y="360" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590927764507">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="451" y="360" width="421" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1590927764507" />
+    <state x="371" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590929294755">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1590929294755" />
+    <state width="1237" height="198" key="GridCell.Tab.0.bottom" timestamp="1590933952634">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1590933952634" />
+    <state width="1237" height="198" key="GridCell.Tab.0.center" timestamp="1590933952634">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1590933952634" />
+    <state width="1237" height="198" key="GridCell.Tab.0.left" timestamp="1590933952634">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1590933952634" />
+    <state width="1237" height="198" key="GridCell.Tab.0.right" timestamp="1590933952634">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="198" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1590933952634" />
+    <state x="349" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590925983605">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="349" y="262" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1590925983605" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1590931891733">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1590931891733" />
+  </component>
+</project>

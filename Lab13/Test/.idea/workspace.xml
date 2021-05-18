@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8042a696-e004-4860-ad3a-7e8bba31497a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bhH7uvWkWCav55kDPVRZwPvd4S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../作业/Assignment 5/text" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.deTest">
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestStudent" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deTest" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="determinant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="determinant" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.deTest" />
+        <item itemvalue="Application.determinant" />
+        <item itemvalue="Application.TestStudent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8042a696-e004-4860-ad3a-7e8bba31497a" name="Default Changelist" comment="" />
+      <created>1589077240343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589077240343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="22" key="#Project_Structure" timestamp="1589077285858">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="22" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1589077285858" />
+    <state x="371" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589103673592">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1589103673592" />
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1589104766457">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1589104766457" />
+    <state width="1237" height="373" key="GridCell.Tab.0.bottom" timestamp="1589104767459">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1589104767459" />
+    <state width="1237" height="373" key="GridCell.Tab.0.center" timestamp="1589104767458">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1589104767458" />
+    <state width="1237" height="373" key="GridCell.Tab.0.left" timestamp="1589104767458">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1589104767458" />
+    <state width="1237" height="373" key="GridCell.Tab.0.right" timestamp="1589104767458">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="373" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1589104767458" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1589096035486">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1589096035486" />
+  </component>
+</project>

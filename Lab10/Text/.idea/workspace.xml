@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ee9c5ae-dff8-414b-998e-4cb4f0ca12d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZZpRnVFkl0qsFDjgvd6sXE3HN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ShapeTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.BookTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.DirectionTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.PMTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SB群友欢乐多" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SB群友欢乐多" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sustech.cs102a.lab10.ShapeTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sustech.cs102a.lab10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.PMTest" />
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.DirectionTest" />
+        <item itemvalue="Application.SB群友欢乐多" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ee9c5ae-dff8-414b-998e-4cb4f0ca12d6" name="Default Changelist" comment="" />
+      <created>1586945258518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586945258518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="54" key="#com.intellij.ide.util.MemberChooser" timestamp="1587202269127">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="415" y="54" key="#com.intellij.ide.util.MemberChooser/0.0.1218.720@0.0.1218.720" timestamp="1587202269127" />
+    <state x="71" y="227" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1586953501769">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="71" y="227" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.0.1218.720@0.0.1218.720" timestamp="1586953501769" />
+    <state width="1175" height="2" key="GridCell.Tab.0.bottom" timestamp="1587196616163">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="2" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1587196616163" />
+    <state width="1175" height="2" key="GridCell.Tab.0.center" timestamp="1587196616163">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="2" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1587196616163" />
+    <state width="1175" height="2" key="GridCell.Tab.0.left" timestamp="1587196616163">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="2" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1587196616163" />
+    <state width="1175" height="2" key="GridCell.Tab.0.right" timestamp="1587196616163">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="2" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1587196616163" />
+    <state x="611" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1587198287119">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="611" y="223" key="com.intellij.ide.util.TipDialog/0.0.1218.720@0.0.1218.720" timestamp="1587198287119" />
+    <state x="6" y="7" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587001037765">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="6" y="7" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1218.720@0.0.1218.720" timestamp="1587001037765" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587204416818">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1218.720@0.0.1218.720" timestamp="1587204416818" />
+    <state x="602" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587201812028">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="602" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1218.720@0.0.1218.720" timestamp="1587201812028" />
+  </component>
+</project>

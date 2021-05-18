@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE.iml" filepath="$PROJECT_DIR$/EXERCISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE1/EXERCISE1.iml" filepath="$PROJECT_DIR$/EXERCISE1/EXERCISE1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE3/EXERCISE3.iml" filepath="$PROJECT_DIR$/EXERCISE3/EXERCISE3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE3_2/EXERCISE3_2.iml" filepath="$PROJECT_DIR$/EXERCISE3_2/EXERCISE3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE4/EXERCISE4.iml" filepath="$PROJECT_DIR$/EXERCISE4/EXERCISE4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE5/EXERCISE5.iml" filepath="$PROJECT_DIR$/EXERCISE5/EXERCISE5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE6/EXERCISE6.iml" filepath="$PROJECT_DIR$/EXERCISE6/EXERCISE6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE7/EXERCISE7.iml" filepath="$PROJECT_DIR$/EXERCISE7/EXERCISE7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXERCISE2/GuessingNumber.iml" filepath="$PROJECT_DIR$/EXERCISE2/GuessingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

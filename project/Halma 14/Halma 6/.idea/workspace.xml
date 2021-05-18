@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Halma:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aae434c-7040-48e1-8d09-8d878df0c53a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZkV4QVtlINc0dIHHUGZSFWiThp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Halma15/Halma 6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xyz.chengzi.halma.view" />
+      <recent name="xyz.chengzi.halma.board" />
+      <recent name="xyz.chengzi.halma.listener" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZIHAN\Desktop\project\Halma 14\Halma 6\src\resource" />
+      <recent name="C:\Users\ZIHAN\Desktop\project\Halma 14\Halma 6\src\xyz\chengzi\halma" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Halma">
+    <configuration name="Halma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.Halma" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine1" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarShine3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.StarShine3" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.chengzi.halma.view.server" />
+      <module name="Halma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.chengzi.halma.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Halma" />
+        <item itemvalue="Application.StarShine1" />
+        <item itemvalue="Application.StarShine3" />
+        <item itemvalue="Application.StarShine" />
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aae434c-7040-48e1-8d09-8d878df0c53a" name="Default Changelist" comment="" />
+      <created>1585382886319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585382886319</updated>
+      <workItem from="1585382889276" duration="15497000" />
+      <workItem from="1585460345730" duration="813000" />
+      <workItem from="1586055879729" duration="5308000" />
+      <workItem from="1587708241390" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1600873803228">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600873803228" />
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom" timestamp="1600873782327">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1600873782327" />
+    <state width="1237" height="103" key="GridCell.Tab.0.center" timestamp="1600873782327">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1600873782327" />
+    <state width="1237" height="103" key="GridCell.Tab.0.left" timestamp="1600873782327">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1600873782327" />
+    <state width="1237" height="103" key="GridCell.Tab.0.right" timestamp="1600873782327">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="103" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1600873782327" />
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1600873794360">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1600873794360" />
+  </component>
+</project>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6db5b8e9-6a06-425e-b257-e7187fc324e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQvRVOeWcTmA7hEBI8xfLDCOqD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Halma/test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\src" />
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\EXERCISE3\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\src\Lab9" />
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\src" />
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise" />
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\EXERCISE2(\src" />
+      <recent name="C:\Users\ZIHAN\Desktop\JAVA\Lab9\exercise\EXERCISE2(\src\Lab9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TimeTest2">
+    <configuration name="GrammarCorrection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9.GrammarCorrection" />
+      <module name="EXERCISE3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.ListFolder" />
+      <module name="EXERCISE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9.ReadWriteTextFile" />
+      <module name="exercise2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9.ReadWriteTextFile" />
+      <module name="EXERCISE2(" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeTest1" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeTest2" />
+      <module name="text" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TimeTest2" />
+        <item itemvalue="Application.TimeTest1" />
+        <item itemvalue="Application.GrammarCorrection" />
+        <item itemvalue="Application.ReadWriteTextFile" />
+        <item itemvalue="Application.ListFolder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6db5b8e9-6a06-425e-b257-e7187fc324e2" name="Default Changelist" comment="" />
+      <created>1586680623542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586680623542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="23" key="#Project_Structure" timestamp="1586682788106">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state x="201" y="23" key="#Project_Structure/0.0.1216.720@0.0.1216.720" timestamp="1586682788106" />
+    <state x="363" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586694690740">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state x="363" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1216.720@0.0.1216.720" timestamp="1586694690740" />
+    <state x="370" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1586751227857">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="369" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1216.720@0.0.1216.720" timestamp="1586700690566" />
+    <state x="370" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1218.720@0.0.1218.720" timestamp="1586751227857" />
+    <state x="264" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586696836449">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state x="264" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1216.720@0.0.1216.720" timestamp="1586696836449" />
+    <state x="390" y="119" key="FileChooserDialogImpl" timestamp="1586790547197">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="390" y="119" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1586790547197" />
+    <state width="1175" height="165" key="GridCell.Tab.0.bottom" timestamp="1586756524997">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.0.bottom/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1175" height="165" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1586756524997" />
+    <state width="1175" height="165" key="GridCell.Tab.0.center" timestamp="1586756524997">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.0.center/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1175" height="165" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1586756524997" />
+    <state width="1175" height="165" key="GridCell.Tab.0.left" timestamp="1586756524997">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.0.left/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1175" height="165" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1586756524997" />
+    <state width="1175" height="165" key="GridCell.Tab.0.right" timestamp="1586756524997">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.0.right/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1175" height="165" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1586756524997" />
+    <state width="1173" height="220" key="GridCell.Tab.1.bottom" timestamp="1586698307361">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.1.bottom/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1173" height="220" key="GridCell.Tab.1.center" timestamp="1586698307361">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.1.center/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1173" height="220" key="GridCell.Tab.1.left" timestamp="1586698307361">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.1.left/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state width="1173" height="220" key="GridCell.Tab.1.right" timestamp="1586698307361">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state width="1173" height="220" key="GridCell.Tab.1.right/0.0.1216.720@0.0.1216.720" timestamp="1586698307361" />
+    <state x="306" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586790533081">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="305" y="189" key="com.intellij.ide.util.TipDialog/0.0.1216.720@0.0.1216.720" timestamp="1586700209709" />
+    <state x="306" y="189" key="com.intellij.ide.util.TipDialog/0.0.1218.720@0.0.1218.720" timestamp="1586790533081" />
+    <state x="0" y="0" key="new project wizard" timestamp="1586700219358">
+      <screen x="0" y="0" width="1216" height="720" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1216.720@0.0.1216.720" timestamp="1586700219358" />
+  </component>
+</project>

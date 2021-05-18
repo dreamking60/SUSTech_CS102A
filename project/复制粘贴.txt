@@ -1,0 +1,79 @@
+ObjectInputStream in = new ObjectInputStream(new FileInputStream(datafile));
+                        ChessBoardComponent chessBoardComponent = (ChessBoardComponent) in.readObject();
+                        ChessBoard chessBoard = (ChessBoard) in.readObject();
+                        GameController gameController = new GameController(chessBoardComponent, chessBoard, datafile,1);
+                        GameFrame mainFrame = new GameFrame(chessBoardComponent, datafile);
+                        mainFrame.setVisible(true);
+                        new music();
+
+ public void placeInitialPieces() {
+        if(Chinesechecker==2) {
+            for (int x = 0,size = 5; x < size; x++) {
+                for (int y = 0; y < size; y++) {
+                    if (x + y <= size) {
+                        grid[x][y].setPiece(new ChessPiece(Color.RED));
+                        grid[15 - x][15 - y].setPiece(new ChessPiece(Color.GREEN));
+                    }
+                }
+            }
+            listenerList.forEach(listener -> listener.onChessBoardReload(this));
+        }
+        else {
+            for (int x = 0,size = 4; x < size; x++) {
+                for (int y = 0; y < size; y++) {
+                    if (x + y <= size) {
+                        grid[x][y].setPiece(new ChessPiece(Color.RED));
+                        grid[15 - x][15 - y].setPiece(new ChessPiece(Color.GREEN));
+                    }
+                }
+            }
+            for (int x = 12; x < 16; x++) {
+                for (int y = 0;y < 4; y++) {
+                    if (x - y > 10) {
+                        grid[x][y].setPiece(new ChessPiece(Color.BLUE));
+                        grid[15 - x][15 - y].setPiece(new ChessPiece(Color.ORANGE));
+                    }
+                }
+            }
+            listenerList.forEach(listener -> listener.onChessBoardReload(this));
+        }
+        System.out.println(Chinesechecker);
+    }
+public boolean Check(){
+        if(model.Chinesechecker==2){
+            if(model.check(Color.RED).size()!=19||model.check(Color.GREEN).size()!=19){
+                return false;
+            }
+        }
+
+        if(model.Chinesechecker==4){
+            return model.check(Color.ORANGE).size() == 13 && model.check(Color.BLUE).size() == 13;
+        }
+        return true;
+    }
+if(!Check()){
+            System.out.println("You cheated!");
+            System.exit(0);
+        }
+
+&& (!hasSelectedLocation() || location.equals(getSelectedLocation()))
+
+File f;
+    URI uri;
+    URL url;
+
+    // Music(){
+//     bgMusic();
+//  }
+    public music() {
+        try {
+            f = new File("D:\\新建文件夹 (4)\\zwdzjszgbdnb\\Halma 3\\src\\java.wav");
+            uri = f.toURI();
+            url = uri.toURL();  //解析地址
+            //AudioClip aau;
+            //aau = Applet.newAudioClip(url);
+            //aau.loop();  //循环播放
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }

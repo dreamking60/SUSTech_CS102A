@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="457f2002-714e-4259-9a12-02fae413169a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atIeNBjQnrHkAnskmZm2gGTAFo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MyShape">
+    <configuration name="MyShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.MyShape" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.PolymorphismTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.RectangleTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.ShapeTest" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EXERCISE1.Test" />
+      <module name="EXERCISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EXERCISE1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyShape" />
+        <item itemvalue="Application.RectangleTest" />
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PolymorphismTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457f2002-714e-4259-9a12-02fae413169a" name="Default Changelist" comment="" />
+      <created>1587548557215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587548557215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1587817872549">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="468" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1587817872549" />
+    <state x="393" y="104" key="FileChooserDialogImpl" timestamp="1587961081066">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="393" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1587961081066" />
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.0.center" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.0.left" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.1.bottom" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.1.center" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.1.left" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state width="1237" height="116" key="GridCell.Tab.1.right" timestamp="1587877150305">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="116" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1587877150305" />
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587961033447">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="189" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1587961033447" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587961096853">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1587961096853" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587873878745">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1587873878745" />
+  </component>
+</project>
